@@ -1,0 +1,10 @@
+#category-links {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#category-links li {
+    list-style-type: none;
+}
